@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1577377200 source:i:\users\yaber\desktop\projets\code source plus executable\code source plus executable\jeu.c
+	<SDL/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1577377200 source:i:\users\yaber\desktop\projets\code source plus executable\code source plus executable\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"jeu.h"
+
+1577377200 i:\users\yaber\desktop\projets\code source plus executable\code source plus executable\jeu.h
+
+1577377200 source:i:\users\yaber\desktop\projets\morpion\jeu.c
+	<SDL/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1578566658 source:i:\users\yaber\desktop\projets\morpion\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"jeu.h"
+
+1577377200 i:\users\yaber\desktop\projets\morpion\jeu.h
+
+1578566916 source:i:\users\yaber\desktop\projets\morpion\icon.rc
+
